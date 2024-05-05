@@ -6,6 +6,7 @@
 <summary>🔸Reference </summary>
   
 - [公式Document](https://nuxt.com/docs/community/roadmap)
+- [フロントエンド開発者 学習ロードマップ 確認シート ](https://qiita.com/nouernet/items/40fc5aba7fbe614bc3f3)
 </details>
 
 
